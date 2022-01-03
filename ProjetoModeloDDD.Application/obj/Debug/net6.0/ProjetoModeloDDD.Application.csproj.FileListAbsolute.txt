@@ -1,0 +1,12 @@
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net6.0\ProjetoModeloDDD.Application.deps.json
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net6.0\ProjetoModeloDDD.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net6.0\ref\ProjetoModeloDDD.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net6.0\ProjetoModeloDDD.Application.pdb
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.csproj.AssemblyReference.cache
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.AssemblyInfoInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.AssemblyInfo.cs
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ref\ProjetoModeloDDD.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net6.0\ProjetoModeloDDD.Application.pdb

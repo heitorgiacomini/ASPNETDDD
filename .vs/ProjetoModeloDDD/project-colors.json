@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "417eb173-d00c-4e24-9ae7-f48e5c94465b": {
+      "ProjectGuid": "417eb173-d00c-4e24-9ae7-f48e5c94465b",
+      "DisplayName": "ProjetoModeloDDD.CoreWebApp",
+      "ColorIndex": 0
+    },
+    "7c307bda-6405-4beb-b524-d5fd6933bc9a": {
+      "ProjectGuid": "7c307bda-6405-4beb-b524-d5fd6933bc9a",
+      "DisplayName": "ProjetoModeloDDD.Infra.Data",
+      "ColorIndex": 1
+    },
+    "14b19fda-cc1e-403d-a3b7-b49be064a75b": {
+      "ProjectGuid": "14b19fda-cc1e-403d-a3b7-b49be064a75b",
+      "DisplayName": "ProjetoModeloDDD.AspNetCoreWebAppMVCMicrosoftIdentity",
+      "ColorIndex": 2
+    },
+    "a8662e0f-3d53-4674-b2bc-cf50b93b39b5": {
+      "ProjectGuid": "a8662e0f-3d53-4674-b2bc-cf50b93b39b5",
+      "DisplayName": "ProjetoModeloDDD.MVC",
+      "ColorIndex": 3
+    },
+    "ffdcbdeb-0c9d-4ec6-a997-439cdaf9d1ef": {
+      "ProjectGuid": "ffdcbdeb-0c9d-4ec6-a997-439cdaf9d1ef",
+      "DisplayName": "ProjetoModeloDDD.Domain",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
