@@ -1,0 +1,9 @@
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\bin\Debug\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\bin\Debug\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csproj.AssemblyReference.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csproj.CoreCompileInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csproj.CopyComplete
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.pdb

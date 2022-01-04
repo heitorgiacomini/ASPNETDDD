@@ -55,7 +55,17 @@
       "ProjectGuid": "8c44079b-38b6-4f0f-8b6b-ff8f63693dab",
       "DisplayName": "4.1Data",
       "ColorIndex": 9
+    },
+    "91882b83-92bd-4caf-92ac-a5637f977436": {
+      "ProjectGuid": "91882b83-92bd-4caf-92ac-a5637f977436",
+      "DisplayName": "ProjetoModeloDDD.Application",
+      "ColorIndex": 10
+    },
+    "350a778c-91a7-4428-9089-0a057d93e3d3": {
+      "ProjectGuid": "350a778c-91a7-4428-9089-0a057d93e3d3",
+      "DisplayName": "ProjetoModeloDDD.Application",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }

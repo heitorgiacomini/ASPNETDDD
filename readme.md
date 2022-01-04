@@ -4,3 +4,21 @@ Domain Driven Design, Migrations, Viewmodel, DataAnnotation, AutoMapper, Entity 
 
 
 t2:10
+
+Corrigir
+renomear pasta apliccation para application
+excluir pastas desnecessarias
+
+
+
+
+
+
+
+
+
+
+
+
+
+

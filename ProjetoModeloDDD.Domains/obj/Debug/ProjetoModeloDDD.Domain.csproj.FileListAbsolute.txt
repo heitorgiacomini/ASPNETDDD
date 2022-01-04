@@ -4,3 +4,8 @@ C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Domains\o
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domains.dll
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\bin\Debug\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\bin\Debug\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Debug\ProjetoModeloDDD.Domains.pdb

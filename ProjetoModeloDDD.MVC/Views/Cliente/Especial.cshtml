@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ProjetoModeloDDD.MVC.ViewModels.ClienteViewModel>
+
+@{
+    ViewBag.Title = "Especial";
+}
+
+<h2>Especial</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_Sobrenome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_Ativo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente_Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente_Sobrenome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente_Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente_Ativo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Cliente_Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Cliente_Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Cliente_Id })
+        </td>
+    </tr>
+}
+
+</table>

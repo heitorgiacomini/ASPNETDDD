@@ -6,20 +6,21 @@ using System.Linq;
 
 namespace ProjetoModeloDDD.Domains.Services
 {
-    public class ClienteService : ServiceBase<Cliente>, IClienteService
+    
+    public class ProdutoService : ServiceBase<Produto>, IProdutoService
     {
-        private readonly IClienteRepository _clienteRepository;
+        private readonly IProdutoRepository _produtoRepository;
 
-         
-        public ClienteService(IClienteRepository clienteRepository)
-            : base(clienteRepository)
+
+        public ProdutoService(IProdutoRepository produtoRepository)
+            : base(produtoRepository)
         {
-            _clienteRepository = clienteRepository;
+            _produtoRepository = produtoRepository;
         }
 
-        public IEnumerable<Cliente> ObterClienteEspecial(IEnumerable<Cliente> cliente)
+        public IEnumerable<Produto> BurcarPorNome(string nome)
         {
-            return cliente.Where(c => c.ClienteEspecial(c));
+            return _produtoRepository.BurcarPorNome(nome);
         }
     }
 }

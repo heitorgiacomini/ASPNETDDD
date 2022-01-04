@@ -2,23 +2,25 @@
 using ProjetoModeloDDD.Domains.Interface.Repositories;
 using ProjetoModeloDDD.Domains.Interface.Services;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ProjetoModeloDDD.Domains.Services
 {
-    public class ProdutoService : ServiceBase<Produto>, IProdutoService
+    public class ClienteService : ServiceBase<Cliente>, IClienteService
     {
-        private readonly IProdutoRepository _produtoRepository;
+        private readonly IClienteRepository _clienteRepository;
 
-         
-        public ProdutoService(IProdutoRepository produtoRepository)
-            : base(produtoRepository)
+
+        public ClienteService(IClienteRepository clienteRepository)
+            : base(clienteRepository)
         {
-            _produtoRepository = produtoRepository;
+            _clienteRepository = clienteRepository;
         }
 
-        public IEnumerable<Produto> BurcarPorNome(string nome)
+        public IEnumerable<Cliente> ObterClienteEspecial(IEnumerable<Cliente> cliente)
         {
-            return _produtoRepository.BurcarPorNome(nome);
+            return cliente.Where(c => c.ClienteEspecial(c));
         }
     }
+
 }
