@@ -77,3 +77,15 @@ C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\D
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CopyComplete
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ClassLibrary1.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ClassLibrary1.pdb
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ClassLibrary1.dll.config
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml

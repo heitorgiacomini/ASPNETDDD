@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpTzaaEVXyE48z6ykRqMiWkkzk9Q5ZN0tw++Zhw1+quilE7xz1XGkWxHseRozyQFFB6qFMdBhm8dGSrK+98ykQ==",
+  "success": true,
+  "projectFilePath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ClassLibrary2\\ClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unnamed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

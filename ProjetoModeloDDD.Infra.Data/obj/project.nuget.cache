@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leJGO5+1mktAxLJXPY2oSvj/8H21mUMAnMLewm3p4E65hOxsjJtPyzi+6hatR3xtFmt6qj1jD7z+ICxvisMeQw==",
+  "dgSpecHash": "+IilC09SLVbYtnBqIzWGpRmcCF6e09Bs5VNOPM/5oy7Qj4qJNo1awHWLSim/C/57JCXGlvgdnkJLr3wrPqah1g==",
   "success": true,
-  "projectFilePath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
+  "projectFilePath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Datasdfsdf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unnamed\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\unnamed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

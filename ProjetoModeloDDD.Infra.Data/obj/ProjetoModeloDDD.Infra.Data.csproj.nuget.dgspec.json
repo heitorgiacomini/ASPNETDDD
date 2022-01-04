@@ -138,7 +138,11 @@
         "projectPath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj",
         "frameworks": {
           "net47": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+              }
+            }
           }
         }
       },

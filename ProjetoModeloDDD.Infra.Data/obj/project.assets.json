@@ -1062,9 +1062,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
-      "projectName": "ProjetoModeloDDD.Infra.Data",
-      "projectPath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
+      "projectUniqueName": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Datasdfsdf.csproj",
+      "projectName": "ProjetoModeloDDD.Infra.Datasdfsdf",
+      "projectPath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Datasdfsdf.csproj",
       "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
       "outputPath": "C:\\p\\aspnetcore\\youtube-eduardopires\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
