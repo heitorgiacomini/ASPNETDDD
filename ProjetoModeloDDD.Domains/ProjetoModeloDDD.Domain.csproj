@@ -43,13 +43,17 @@
   <ItemGroup>
     <Compile Include="Entities\Cliente.cs" />
     <Compile Include="Entities\Produto.cs" />
-    <Compile Include="Interface\IClienteRepository.cs" />
-    <Compile Include="Interface\IProdutoRepository.cs" />
-    <Compile Include="Interface\IRepositoryBase.cs" />
+    <Compile Include="Interface\Repositories\IClienteRepository.cs" />
+    <Compile Include="Interface\Repositories\IProdutoRepository.cs" />
+    <Compile Include="Interface\Repositories\IRepositoryBase.cs" />
+    <Compile Include="Interface\Services\IClienteService.cs" />
+    <Compile Include="Interface\Services\IProdutoService.cs" />
+    <Compile Include="Interface\Services\IServiceBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ProdutoService.cs" />
+    <Compile Include="Services\ClienteService.cs" />
+    <Compile Include="Services\ServiceBase.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interface\Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

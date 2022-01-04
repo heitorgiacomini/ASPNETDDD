@@ -12,7 +12,7 @@ namespace ProjetoModeloDDD.Domains.Entities
         
         public DateTime Cliente_DataCadastro { get; set; }
         public bool Cliente_Ativo { get; set; }
-        public IEnumerable<Produto> produtos{ get; set; }
+        public IEnumerable<Produto> Produtos{ get; set; }
         public bool ClienteEspecial(Cliente cliente)
         {
             return cliente.Cliente_Ativo && DateTime.Now.Year - cliente.Cliente_DataCadastro.Year >= 5;

@@ -45,7 +45,17 @@
       "ProjectGuid": "9cfc05ce-3c47-4254-b283-a5443cea3bd0",
       "DisplayName": "ProjetoModeloDDD.Domain",
       "ColorIndex": 7
+    },
+    "159c37d5-f6d1-4177-a802-2815a7623d65": {
+      "ProjectGuid": "159c37d5-f6d1-4177-a802-2815a7623d65",
+      "DisplayName": "0.Presentation",
+      "ColorIndex": 8
+    },
+    "8c44079b-38b6-4f0f-8b6b-ff8f63693dab": {
+      "ProjectGuid": "8c44079b-38b6-4f0f-8b6b-ff8f63693dab",
+      "DisplayName": "4.1Data",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
