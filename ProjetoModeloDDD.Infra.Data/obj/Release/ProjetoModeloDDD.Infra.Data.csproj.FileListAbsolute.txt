@@ -1,0 +1,14 @@
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ClassLibrary1.dll.config
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ClassLibrary1.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ClassLibrary1.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.xml
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ClassLibrary1.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ClassLibrary1.pdb

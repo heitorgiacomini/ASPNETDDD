@@ -17,7 +17,7 @@ namespace ProjetoModeloDDD.MVC.ViewModels
         public decimal ProdutoValor { get; set; }
         [DisplayName("Disponivel?")]
         public bool Produto_Disponivel { get; set; }
-        public int Cliente_id { get; set; }
+        public int Cliente_Id { get; set; }
         public virtual ClienteViewModel Cliente { get; set; }
     }
 }

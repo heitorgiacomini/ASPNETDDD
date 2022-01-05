@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ProjetoModeloDDD.MVC.ViewModels.ProdutoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Produto_Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdutoValor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Produto_Disponivel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_Id)
+        </th>
+        <th>
+            @Html.DisplayName("Cliente")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto_Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdutoValor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto_Disponivel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Cliente_Nome)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Produto_Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Produto_Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Produto_Id })
+            </td>
+        </tr>
+    }
+
+</table>

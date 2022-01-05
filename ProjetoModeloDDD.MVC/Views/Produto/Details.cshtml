@@ -1,0 +1,50 @@
+﻿@model ProjetoModeloDDD.MVC.ViewModels.ProdutoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProdutoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Produto_Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Produto_Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdutoValor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdutoValor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Produto_Disponivel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Produto_Disponivel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente_Id)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Produto_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

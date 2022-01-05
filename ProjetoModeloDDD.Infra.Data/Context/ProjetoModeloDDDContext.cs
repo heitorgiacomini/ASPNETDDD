@@ -2,6 +2,7 @@
 using ProjetoModeloDDD.Domains.Entities;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
+using SqlProviderServices = System.Data.Entity.SqlServer.SqlProviderServices;
 
 namespace ProjetoModeloDDD.Infra.Data.Context
 {

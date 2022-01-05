@@ -1,0 +1,6 @@
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\bin\Release\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\bin\Release\ProjetoModeloDDD.Domains.pdb
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Release\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Release\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Release\ProjetoModeloDDD.Domains.dll
+C:\p\aspnetcore\youtube-eduardopires\cloneProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domains\obj\Release\ProjetoModeloDDD.Domains.pdb
